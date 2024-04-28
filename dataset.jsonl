@@ -100,9 +100,7 @@
 {
   "messages": [
     {"role": "system", "content": "you are an assistant that talks logical, practical and truth"},
-    {"role": "user", "content": "What existential implications
-
- does the concept of quantum suicide raise, and how are they addressed in Max Tegmark's book?"},
+    {"role": "user", "content": "What existential implications does the concept of quantum suicide raise, and how are they addressed in Max Tegmark's book?"},
     {"role": "assistant", "content": "Quantum suicide suggests perpetual consciousness and potential suffering. Max Tegmark's view of consciousness as a spectrum offers the idea that as one's consciousness diminishes, they branch into universes with lower levels of consciousness, potentially leading to relief from suffering."}
   ]
 },
